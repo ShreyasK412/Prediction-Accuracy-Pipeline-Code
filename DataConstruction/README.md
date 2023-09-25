@@ -3,7 +3,9 @@ The code processes a dataframe of cluster values derived from k-means clustering
 
 # Data Construction Run Instructions
 1)Upload DataConstructionCode.ipynb to your google drive and open it in colabatory and make sure you have clusters6.csv downloaded to your local machine. 
+
 2)Run the first cell and upload the clusters6.csv
+
 3)Run the remaining cells, and save the TrainingData.csv
 
 
