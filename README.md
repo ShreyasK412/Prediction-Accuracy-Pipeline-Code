@@ -7,4 +7,5 @@ Each folder contains the neccesary data, code, and run instructions for the resp
 # Getting Started
 You will need a platform that can run Interactive Python Notebook file formats(.ipynb file extensions). Becuase of the large amount of data and computations used and the neccesity to easily share results quickly our lab used [Google Colaboratory](https://colab.google/) with a premium subscription.
 
-To download
+To download the files to your machine run the command:
+### `git clone '
